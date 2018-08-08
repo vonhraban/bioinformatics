@@ -299,12 +299,12 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 
 
 ## Additional read
-[An Introduction To Molecular Biology WikiBook](https://en.wikibooks.org/wiki/An_Introduction_to_Molecular_Biology)
-[NUS Algrorithms for Bioinformatics](https://www.comp.nus.edu.sg/~ksung/algo_in_bioinfo/)
+* [An Introduction To Molecular Biology WikiBook](https://en.wikibooks.org/wiki/An_Introduction_to_Molecular_Biology)
+* [NUS Algrorithms for Bioinformatics](https://www.comp.nus.edu.sg/~ksung/algo_in_bioinfo/)
 
 ## Communities
-[SEQAnswers](http://seqanswers.com)
-[Biostars](https://www.biostars.org)
+* [SEQAnswers](http://seqanswers.com)
+* [Biostars](https://www.biostars.org)
 
 ## Sample practice but still real genome data
 [Array Express](https://www.ebi.ac.uk/arrayexpress)
